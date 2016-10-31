@@ -1,0 +1,28 @@
+/* font-family: "MyriadPro-Semibold"; */
+@font-face {
+    font-family: "MyriadPro-Semibold";
+    src: url("../fonts/MyriadPro-Semibold/MyriadPro-Semibold.woff") format("woff"),
+    url("../fonts/MyriadPro-Semibold/MyriadPro-Semibold.ttf") format("truetype"),
+    url("../fonts/MyriadPro-Semibold/MyriadPro-Semibold.eot");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "HelveticaNeue"; */
+@font-face {
+    font-family: "HelveticaNeue";
+    src: url("../fonts/HelveticaNeue/HelveticaNeue.woff") format("woff"),
+    url("../fonts/HelveticaNeue/HelveticaNeue.ttf") format("truetype"),
+    url("../fonts/HelveticaNeue/HelveticaNeue.eot");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "SourceCodePro"; */
+@font-face {
+    font-family: "SourceCodePro";
+    src: url("../fonts/SourceCodePro/SourceCodePro.woff") format("woff"),
+    url("../fonts/SourceCodePro/SourceCodePro.ttf") format("truetype"),
+    url("../fonts/SourceCodePro/SourceCodePro.eot");
+    font-style: font-weight: normal;
+}
